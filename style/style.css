@@ -703,4 +703,11 @@ footer {
         width: 80%;
     }
 
+
+    /* footer */
+
+    footer>p{
+        font-size: 0.7rem;
+    }
+
 }
